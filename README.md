@@ -1,18 +1,54 @@
-<h1 align="center">Hi 👋, I'm Om Ahuja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">✨ Om Ahuja | Crafting Code, Creating Impact ✨</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Frontend Developer | Problem Solver</h3>
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 💬 Ask me about **Cricket Analysis**
+### 🌟 About Me
+- 🔭 I’m currently working on **AI, Machine Learning, and Full-Stack Projects**
+- 🌱 Learning **Advanced Python, Flask, and Data Science**
+- 💬 Ask me about **Frontend Development, Cricket Analytics, and ML Projects**
+- 📫 Reach me at **oma48446@gmail.com**
+- 🌐 Portfolio: [omahujaa.vercel.app](https://omahujaa.vercel.app/)  
+- ⚡ Fun fact: *I love blending creativity with logic to solve real-world problems.*
 
-- 📫 How to reach me **oma48446@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me
 <p align="left">
-<a href="https://twitter.com/omahuja22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omahuja22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omahujaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omahujaa" height="30" width="40" /></a>
-<a href="https://instagram.com/omahujaa.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omahujaa.22" height="30" width="40" /></a>
+<a href="https://x.com/ahuja_om87703" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.linkedin.com/in/omahujaa" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/omahujaa.22" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,flask,git,github,ai,ps,figma,chartjs" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=omahuja22&show_icons=true&theme=radical" alt="omahuja22 stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omahuja22&theme=radical" alt="omahuja22 streak"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+Here are some of my key projects:
+
+- 💳 [Loan Eligibility Predictor](https://github.com/omahuja22/loan_eligibily_predictor) – ML model to predict loan eligibility  
+- 🏥 [Disease Risk Checker](https://github.com/omahuja22/disease_risk_checker) – Predicts disease risk using ML models  
+- 🎮 [Breakout Game](https://github.com/omahuja22/breakout-game) – Classic arcade game built with Python  
+- ✋ [Hand Gesture Recognition](https://github.com/omahuja22/hand-gesture-recognition) – Computer Vision project using OpenCV  
+- 🌍 [Air Quality Index Prediction](https://github.com/omahuja22/air-quality-index-prediction) – ML regression project for AQI  
+- 🚗 [Automobile Price Prediction](https://github.com/omahuja22/Automobile-Price-Prediction) – Predicts car prices with ML  
+- 🧘 [MindChain](https://github.com/omahuja22/mindchain) – Mental health platform with AI and blockchain integration  
+- 🌐 [Portfolio Website](https://omahujaa.vercel.app/) – My personal developer portfolio  
+
+---
+
+✨ *“Transforming ideas into scalable solutions with AI & Design.”* ✨
