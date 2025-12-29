@@ -1,102 +1,48 @@
-<h1 align="center">✨ Om Ahuja | Building Intelligent & Impactful Systems ✨</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Data Analyst | Frontend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omahujaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Ahuja-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="mailto:oma48446@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="https://omahujaa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square"/>
-  </a>
-</p>
+<!-- Hero Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Om+Ahuja+👋;AI+%26+ML+Engineer+in+the+Making;Data+Analyst+%7C+Product+Builder;I+Build+Systems+That+Think;I+Ship+Projects+That+Matter+🚀" />
 
----
+<br/><br/>
 
-## 🌟 About Me
-- 🎓 Engineering student focused on **Artificial Intelligence & Machine Learning**
-- 🔭 Working on **AI/ML, Data Analytics & Full-Stack projects**
-- 🌱 Learning **Advanced Python, Machine Learning, Flask & Data Science**
-- 💬 Ask me about **Machine Learning, Data Analysis, Frontend Development & Cricket Analytics**
-- ⚡ Passionate about solving **real-world problems using data-driven approaches**
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7CFFB2&height=4&section=header" />
 
----
+<br/>
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/omahujaa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://x.com/ahuja_om87703" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  <a href="https://instagram.com/omahujaa.22" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</p>
+<!-- CTA Buttons -->
+<a href="https://omahujaa.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-00F7FF?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/omahujaa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:oma48446@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+<em>“I don’t just learn technology — I apply it to solve real problems.”</em>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,flask,git,github,ai,figma,chartjs" height="45"/>
-</p>
+## 👨‍💻 ABOUT ME (QUICK SNAPSHOT)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=omahuja22&show_icons=true&count_private=true&cache_seconds=86400&hide_border=true"
-    alt="Om Ahuja GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omahuja22&layout=compact&cache_seconds=86400&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 💳 **Loan Eligibility Predictor**  
-  🔗 https://github.com/omahuja22/loan_eligibily_predictor  
-  <sub>Machine Learning model to predict loan eligibility using financial data</sub>
-
-- 🏥 **Disease Risk Checker**  
-  🔗 https://github.com/omahuja22/disease_risk_checker  
-  <sub>ML-based system for predicting disease risk</sub>
-
-- ✋ **Hand Gesture Recognition System**  
-  🔗 https://github.com/omahuja22/hand-gesture-recognition  
-  <sub>Real-time computer vision project using OpenCV & MediaPipe</sub>
-
-- 🌍 **Air Quality Index Prediction**  
-  🔗 https://github.com/omahuja22/air-quality-index-prediction  
-  <sub>Regression-based AQI forecasting model</sub>
-
-- 🚗 **Automobile Price Prediction**  
-  🔗 https://github.com/omahuja22/Automobile-Price-Prediction  
-  <sub>Predicts automobile prices using machine learning</sub>
-
-- 🧘 **MindChain**  
-  🔗 https://github.com/omahuja22/mindchain  
-  <sub>Mental health platform integrating AI & Blockchain</sub>
-
-- 🎮 **Breakout Game**  
-  🔗 https://github.com/omahuja22/breakout-game  
-  <sub>Classic arcade game built using Python</sub>
-
-- 🌐 **Portfolio Website**  
-  🔗 https://omahujaa.vercel.app  
-  <sub>Personal portfolio showcasing projects & skills</sub>
-
----
-
-✨ <i>“Transforming ideas into scalable, data-driven solutions using AI & Design.”</i> ✨
+```yaml
+Name: Om Ahuja
+Education: B.Tech (Artificial Intelligence & Machine Learning)
+Primary Roles:
+  - AI / ML Engineer
+  - Data Analyst
+  - Frontend Developer
+Focus Areas:
+  - Machine Learning Systems
+  - Data-Driven Decision Making
+  - Full-Stack AI Products
+Mindset:
+  - Build > Talk
+  - Impact > Marks
+  - Product > Theory
