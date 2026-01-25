@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Om+Ahuja+👋;AI+%26+ML+Engineer+in+the+Making;Data+Science+%7C+Prompt+Engineering;Hackathon+Winner+%7C+Product+Builder;Turning+Ideas+into+Intelligent+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Om+Ahuja+👋;AI+%26+ML+Engineer+in+the+Making;Data+Science+%7C+Data+Analytics+%7C+Prompt+Engineering;Hackathon+Winner+%7C+Product+Builder;Turning+Ideas+into+Intelligent+Systems+🚀" />
 
 <br/><br/>
 
@@ -33,13 +33,30 @@
 
 ### 🔬 Specialization
 - Artificial Intelligence & Machine Learning  
-- Data Science & Analytics  
+- Data Science & Data Analytics  
 - Prompt Engineering & Gen-AI  
 
 ### 🧠 Identity
 - Hackathon Winner  
 - Student Leader  
 - Product-Oriented Thinker  
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,git,github,flask,react,nodejs,opencv,tensorflow,sklearn,pandas,numpy,sqlite,mysql,aws,gcp,powerbi&theme=dark" />
+
+</div>
+
+### 📊 Data Analyst Toolkit
+- Power BI (Dashboards, DAX, Data Modeling)  
+- SQL (MySQL, SQLite)  
+- Python (Pandas, NumPy, Matplotlib)  
+- Data Cleaning, EDA & Visualization  
+- KPI Tracking & Business Insights  
 
 ---
 
